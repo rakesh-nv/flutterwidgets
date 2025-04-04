@@ -7,7 +7,6 @@ class InstaClone extends StatefulWidget {
   @override
   State<InstaClone> createState() => _InstaCloneState();
 }
-
 class _InstaCloneState extends State<InstaClone> {
   final ScrollController _scrollController = ScrollController();
 
